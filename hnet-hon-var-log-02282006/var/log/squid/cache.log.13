@@ -1,0 +1,12 @@
+2005/10/09 04:11:58| storeDirWriteCleanLogs: Starting...
+2005/10/09 04:12:01|   Finished.  Wrote 0 entries.
+2005/10/09 04:12:01|   Took 0.6 seconds (   0.0 entries/sec).
+2005/10/09 04:12:01| logfileRotate: /var/log/squid/store.log
+2005/10/09 04:12:01| logfileRotate: /var/log/squid/access.log
+2005/10/09 04:12:01| logfileRotate: /var/log/squid/useragent_log.log
+2005/10/09 04:12:01| logfileRotate: /var/log/squid/referer_log.log
+2005/10/13 14:52:52| WARNING: Reply from unknown nameserver [61.186.97.131]
+2005/10/14 02:33:04| Failure Ratio at 1.00
+2005/10/14 02:33:04| Going into hit-only-mode for 5 minutes...
+2005/10/15 06:35:48| Failure Ratio at 1.01
+2005/10/15 06:35:48| Going into hit-only-mode for 5 minutes...

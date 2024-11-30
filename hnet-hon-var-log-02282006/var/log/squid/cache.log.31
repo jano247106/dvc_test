@@ -1,0 +1,384 @@
+2005/06/08 12:15:42| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/08 12:15:42| Process ID 2280
+2005/06/08 12:15:42| With 1024 file descriptors available
+2005/06/08 12:15:42| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/06/08 12:15:42| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/08 12:15:42| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/08 12:15:42| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/08 12:15:42| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/08 12:15:42| User-Agent logging is disabled.
+2005/06/08 12:15:42| Referer logging is disabled.
+2005/06/08 12:15:42| Unlinkd pipe opened on FD 9
+2005/06/08 12:15:42| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/08 12:15:42| Target number of buckets: 393
+2005/06/08 12:15:42| Using 8192 Store buckets
+2005/06/08 12:15:42| Max Mem  size: 8192 KB
+2005/06/08 12:15:42| Max Swap size: 102400 KB
+2005/06/08 12:15:42| Rebuilding storage in /var/spool/squid (DIRTY)
+2005/06/08 12:15:42| Using Least Load store dir selection
+2005/06/08 12:15:42| Set Current Directory to /var/spool/squid
+2005/06/08 12:15:42| Loaded Icons.
+2005/06/08 12:15:43| Accepting HTTP connections at 0.0.0.0, port 3128, FD 10.
+2005/06/08 12:15:43| Accepting ICP messages at 0.0.0.0, port 3130, FD 11.
+2005/06/08 12:15:43| WCCP Disabled.
+2005/06/08 12:15:43| Ready to serve requests.
+2005/06/08 12:16:21| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/08 12:16:21| Finished rebuilding storage from disk.
+2005/06/08 12:16:21|         0 Entries scanned
+2005/06/08 12:16:21|         0 Invalid entries.
+2005/06/08 12:16:21|         0 With invalid flags.
+2005/06/08 12:16:21|         0 Objects loaded.
+2005/06/08 12:16:21|         0 Objects expired.
+2005/06/08 12:16:21|         0 Objects cancelled.
+2005/06/08 12:16:21|         0 Duplicate URLs purged.
+2005/06/08 12:16:21|         0 Swapfile clashes avoided.
+2005/06/08 12:16:21|   Took 38.9 seconds (   0.0 objects/sec).
+2005/06/08 12:16:21| Beginning Validation Procedure
+2005/06/08 12:16:21|   Completed Validation Procedure
+2005/06/08 12:16:21|   Validated 0 Entries
+2005/06/08 12:16:21|   store_swap_size = 0k
+2005/06/08 12:16:23| storeLateRelease: released 0 objects
+2005/06/08 13:03:50| Preparing for shutdown after 0 requests
+2005/06/08 13:03:50| Waiting 30 seconds for active connections to finish
+2005/06/08 13:03:50| FD 10 Closing HTTP connection
+2005/06/08 13:03:52| Shutting down...
+2005/06/08 13:03:52| FD 11 Closing ICP connection
+2005/06/08 13:03:52| Closing unlinkd pipe on FD 9
+2005/06/08 13:03:52| storeDirWriteCleanLogs: Starting...
+2005/06/08 13:03:52|   Finished.  Wrote 0 entries.
+2005/06/08 13:03:52|   Took 0.0 seconds (   0.0 entries/sec).
+CPU Usage: 0.557 seconds = 0.123 user + 0.434 sys
+Maximum Resident Size: 0 KB
+Page faults with physical i/o: 29
+Memory usage for squid via mallinfo():
+	total space in arena:    2112 KB
+	Ordinary blocks:         1999 KB      3 blks
+	Small blocks:               0 KB      6 blks
+	Holding blocks:           200 KB      1 blks
+	Free Small blocks:          0 KB
+	Free Ordinary blocks:     112 KB
+	Total in use:            2199 KB 104%
+	Total free:               112 KB 5%
+2005/06/08 13:03:52| Squid Cache (Version 2.5.STABLE5): Exiting normally.
+2005/06/08 13:06:29| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/08 13:06:29| Process ID 2266
+2005/06/08 13:06:29| With 1024 file descriptors available
+2005/06/08 13:06:29| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/06/08 13:06:29| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/08 13:06:29| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/08 13:06:29| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/08 13:06:29| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/08 13:06:29| User-Agent logging is disabled.
+2005/06/08 13:06:29| Referer logging is disabled.
+2005/06/08 13:06:29| Unlinkd pipe opened on FD 9
+2005/06/08 13:06:29| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/08 13:06:29| Target number of buckets: 393
+2005/06/08 13:06:29| Using 8192 Store buckets
+2005/06/08 13:06:29| Max Mem  size: 8192 KB
+2005/06/08 13:06:29| Max Swap size: 102400 KB
+2005/06/08 13:06:29| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/06/08 13:06:29| Using Least Load store dir selection
+2005/06/08 13:06:29| Set Current Directory to /var/spool/squid
+2005/06/08 13:06:29| Loaded Icons.
+2005/06/08 13:06:31| Accepting HTTP connections at 0.0.0.0, port 3128, FD 10.
+2005/06/08 13:06:31| Accepting ICP messages at 0.0.0.0, port 3130, FD 11.
+2005/06/08 13:06:31| WCCP Disabled.
+2005/06/08 13:06:31| Ready to serve requests.
+2005/06/08 13:07:12| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/08 13:07:12| Finished rebuilding storage from disk.
+2005/06/08 13:07:12|         0 Entries scanned
+2005/06/08 13:07:12|         0 Invalid entries.
+2005/06/08 13:07:12|         0 With invalid flags.
+2005/06/08 13:07:12|         0 Objects loaded.
+2005/06/08 13:07:12|         0 Objects expired.
+2005/06/08 13:07:12|         0 Objects cancelled.
+2005/06/08 13:07:12|         0 Duplicate URLs purged.
+2005/06/08 13:07:12|         0 Swapfile clashes avoided.
+2005/06/08 13:07:12|   Took 43.4 seconds (   0.0 objects/sec).
+2005/06/08 13:07:12| Beginning Validation Procedure
+2005/06/08 13:07:12|   Completed Validation Procedure
+2005/06/08 13:07:12|   Validated 0 Entries
+2005/06/08 13:07:12|   store_swap_size = 0k
+2005/06/08 13:07:12| storeLateRelease: released 0 objects
+2005/06/08 13:13:21| Preparing for shutdown after 0 requests
+2005/06/08 13:13:21| Waiting 30 seconds for active connections to finish
+2005/06/08 13:13:21| FD 10 Closing HTTP connection
+2005/06/08 13:13:23| Shutting down...
+2005/06/08 13:13:23| FD 11 Closing ICP connection
+2005/06/08 13:13:23| Closing unlinkd pipe on FD 9
+2005/06/08 13:13:23| storeDirWriteCleanLogs: Starting...
+2005/06/08 13:13:23|   Finished.  Wrote 0 entries.
+2005/06/08 13:13:23|   Took 0.0 seconds (   0.0 entries/sec).
+CPU Usage: 0.553 seconds = 0.147 user + 0.406 sys
+Maximum Resident Size: 0 KB
+Page faults with physical i/o: 7
+Memory usage for squid via mallinfo():
+	total space in arena:    2112 KB
+	Ordinary blocks:         1999 KB      3 blks
+	Small blocks:               0 KB      6 blks
+	Holding blocks:           200 KB      1 blks
+	Free Small blocks:          0 KB
+	Free Ordinary blocks:     112 KB
+	Total in use:            2199 KB 104%
+	Total free:               112 KB 5%
+2005/06/08 13:13:23| Squid Cache (Version 2.5.STABLE5): Exiting normally.
+2005/06/08 13:15:50| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/08 13:15:50| Process ID 2264
+2005/06/08 13:15:50| With 1024 file descriptors available
+2005/06/08 13:15:50| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/06/08 13:15:50| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/08 13:15:50| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/08 13:15:50| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/08 13:15:50| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/08 13:15:50| User-Agent logging is disabled.
+2005/06/08 13:15:50| Referer logging is disabled.
+2005/06/08 13:15:50| Unlinkd pipe opened on FD 9
+2005/06/08 13:15:50| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/08 13:15:50| Target number of buckets: 393
+2005/06/08 13:15:50| Using 8192 Store buckets
+2005/06/08 13:15:50| Max Mem  size: 8192 KB
+2005/06/08 13:15:50| Max Swap size: 102400 KB
+2005/06/08 13:15:50| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/06/08 13:15:50| Using Least Load store dir selection
+2005/06/08 13:15:50| Set Current Directory to /var/spool/squid
+2005/06/08 13:15:50| Loaded Icons.
+2005/06/08 13:15:52| Accepting HTTP connections at 0.0.0.0, port 3128, FD 10.
+2005/06/08 13:15:52| Accepting ICP messages at 0.0.0.0, port 3130, FD 11.
+2005/06/08 13:15:52| WCCP Disabled.
+2005/06/08 13:15:52| Ready to serve requests.
+2005/06/08 13:16:34| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/08 13:16:34| Finished rebuilding storage from disk.
+2005/06/08 13:16:34|         0 Entries scanned
+2005/06/08 13:16:34|         0 Invalid entries.
+2005/06/08 13:16:34|         0 With invalid flags.
+2005/06/08 13:16:34|         0 Objects loaded.
+2005/06/08 13:16:34|         0 Objects expired.
+2005/06/08 13:16:34|         0 Objects cancelled.
+2005/06/08 13:16:34|         0 Duplicate URLs purged.
+2005/06/08 13:16:34|         0 Swapfile clashes avoided.
+2005/06/08 13:16:34|   Took 43.9 seconds (   0.0 objects/sec).
+2005/06/08 13:16:34| Beginning Validation Procedure
+2005/06/08 13:16:35|   Completed Validation Procedure
+2005/06/08 13:16:35|   Validated 0 Entries
+2005/06/08 13:16:35|   store_swap_size = 0k
+2005/06/08 13:16:36| storeLateRelease: released 0 objects
+2005/06/09 05:38:39| Preparing for shutdown after 0 requests
+2005/06/09 05:38:39| Waiting 30 seconds for active connections to finish
+2005/06/09 05:38:39| FD 10 Closing HTTP connection
+2005/06/09 05:38:41| Shutting down...
+2005/06/09 05:38:41| FD 11 Closing ICP connection
+2005/06/09 05:38:41| Closing unlinkd pipe on FD 9
+2005/06/09 05:38:41| storeDirWriteCleanLogs: Starting...
+2005/06/09 05:38:41|   Finished.  Wrote 0 entries.
+2005/06/09 05:38:41|   Took 0.1 seconds (   0.0 entries/sec).
+CPU Usage: 1.247 seconds = 0.470 user + 0.777 sys
+Maximum Resident Size: 0 KB
+Page faults with physical i/o: 57
+Memory usage for squid via mallinfo():
+	total space in arena:    2112 KB
+	Ordinary blocks:         1999 KB      4 blks
+	Small blocks:               0 KB      6 blks
+	Holding blocks:           200 KB      1 blks
+	Free Small blocks:          0 KB
+	Free Ordinary blocks:     112 KB
+	Total in use:            2199 KB 104%
+	Total free:               112 KB 5%
+2005/06/09 05:38:41| Squid Cache (Version 2.5.STABLE5): Exiting normally.
+2005/06/09 05:38:42| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/09 05:38:42| Process ID 16949
+2005/06/09 05:38:42| With 1024 file descriptors available
+2005/06/09 05:38:42| DNS Socket created at 0.0.0.0, port 1044, FD 4
+2005/06/09 05:38:42| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/09 05:38:42| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/09 05:38:42| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/09 05:38:42| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/09 05:38:42| User-Agent logging is disabled.
+2005/06/09 05:38:42| Referer logging is disabled.
+2005/06/09 05:38:42| Unlinkd pipe opened on FD 9
+2005/06/09 05:38:42| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/09 05:38:42| Target number of buckets: 393
+2005/06/09 05:38:42| Using 8192 Store buckets
+2005/06/09 05:38:42| Max Mem  size: 8192 KB
+2005/06/09 05:38:42| Max Swap size: 102400 KB
+2005/06/09 05:38:42| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/06/09 05:38:42| Using Least Load store dir selection
+2005/06/09 05:38:42| Set Current Directory to /var/spool/squid
+2005/06/09 05:38:42| Loaded Icons.
+2005/06/09 05:38:42| Accepting HTTP connections at 0.0.0.0, port 3128, FD 10.
+2005/06/09 05:38:42| Accepting ICP messages at 0.0.0.0, port 3130, FD 11.
+2005/06/09 05:38:42| WCCP Disabled.
+2005/06/09 05:38:42| Ready to serve requests.
+2005/06/09 05:38:46| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/09 05:38:46| Finished rebuilding storage from disk.
+2005/06/09 05:38:46|         0 Entries scanned
+2005/06/09 05:38:46|         0 Invalid entries.
+2005/06/09 05:38:46|         0 With invalid flags.
+2005/06/09 05:38:46|         0 Objects loaded.
+2005/06/09 05:38:46|         0 Objects expired.
+2005/06/09 05:38:46|         0 Objects cancelled.
+2005/06/09 05:38:46|         0 Duplicate URLs purged.
+2005/06/09 05:38:46|         0 Swapfile clashes avoided.
+2005/06/09 05:38:46|   Took 3.8 seconds (   0.0 objects/sec).
+2005/06/09 05:38:46| Beginning Validation Procedure
+2005/06/09 05:38:46|   Completed Validation Procedure
+2005/06/09 05:38:46|   Validated 0 Entries
+2005/06/09 05:38:46|   store_swap_size = 0k
+2005/06/09 05:38:46| storeLateRelease: released 0 objects
+2005/06/09 06:02:49| Preparing for shutdown after 0 requests
+2005/06/09 06:02:49| Waiting 30 seconds for active connections to finish
+2005/06/09 06:02:49| FD 10 Closing HTTP connection
+2005/06/09 06:02:51| Shutting down...
+2005/06/09 06:02:51| FD 11 Closing ICP connection
+2005/06/09 06:02:51| Closing unlinkd pipe on FD 9
+2005/06/09 06:02:51| storeDirWriteCleanLogs: Starting...
+2005/06/09 06:02:51|   Finished.  Wrote 0 entries.
+2005/06/09 06:02:51|   Took 0.0 seconds (   0.0 entries/sec).
+CPU Usage: 0.366 seconds = 0.091 user + 0.275 sys
+Maximum Resident Size: 0 KB
+Page faults with physical i/o: 3
+Memory usage for squid via mallinfo():
+	total space in arena:    2112 KB
+	Ordinary blocks:         1999 KB      3 blks
+	Small blocks:               0 KB      6 blks
+	Holding blocks:           200 KB      1 blks
+	Free Small blocks:          0 KB
+	Free Ordinary blocks:     112 KB
+	Total in use:            2199 KB 104%
+	Total free:               112 KB 5%
+2005/06/09 06:02:51| Squid Cache (Version 2.5.STABLE5): Exiting normally.
+2005/06/09 06:02:52| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/09 06:02:52| Process ID 17492
+2005/06/09 06:02:52| With 1024 file descriptors available
+2005/06/09 06:02:52| DNS Socket created at 0.0.0.0, port 1049, FD 4
+2005/06/09 06:02:52| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/09 06:02:52| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/09 06:02:52| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/09 06:02:52| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/09 06:02:52| Unlinkd pipe opened on FD 11
+2005/06/09 06:02:52| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/09 06:02:52| Target number of buckets: 393
+2005/06/09 06:02:52| Using 8192 Store buckets
+2005/06/09 06:02:52| Max Mem  size: 8192 KB
+2005/06/09 06:02:52| Max Swap size: 102400 KB
+2005/06/09 06:02:52| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/06/09 06:02:52| Using Least Load store dir selection
+2005/06/09 06:02:52| Set Current Directory to /var/spool/squid
+2005/06/09 06:02:52| Loaded Icons.
+2005/06/09 06:02:52| Accepting HTTP connections at 0.0.0.0, port 3128, FD 12.
+2005/06/09 06:02:52| Accepting ICP messages at 0.0.0.0, port 3130, FD 13.
+2005/06/09 06:02:52| WCCP Disabled.
+2005/06/09 06:02:52| Ready to serve requests.
+2005/06/09 06:02:56| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/09 06:02:56| Finished rebuilding storage from disk.
+2005/06/09 06:02:56|         0 Entries scanned
+2005/06/09 06:02:56|         0 Invalid entries.
+2005/06/09 06:02:56|         0 With invalid flags.
+2005/06/09 06:02:56|         0 Objects loaded.
+2005/06/09 06:02:56|         0 Objects expired.
+2005/06/09 06:02:56|         0 Objects cancelled.
+2005/06/09 06:02:56|         0 Duplicate URLs purged.
+2005/06/09 06:02:56|         0 Swapfile clashes avoided.
+2005/06/09 06:02:56|   Took 3.7 seconds (   0.0 objects/sec).
+2005/06/09 06:02:56| Beginning Validation Procedure
+2005/06/09 06:02:56|   Completed Validation Procedure
+2005/06/09 06:02:56|   Validated 0 Entries
+2005/06/09 06:02:56|   store_swap_size = 0k
+2005/06/09 06:02:56| storeLateRelease: released 0 objects
+2005/06/09 06:04:30| Preparing for shutdown after 0 requests
+2005/06/09 06:04:30| Waiting 30 seconds for active connections to finish
+2005/06/09 06:04:30| FD 12 Closing HTTP connection
+2005/06/09 06:04:31| Shutting down...
+2005/06/09 06:04:31| FD 13 Closing ICP connection
+2005/06/09 06:04:31| Closing unlinkd pipe on FD 11
+2005/06/09 06:04:31| storeDirWriteCleanLogs: Starting...
+2005/06/09 06:04:31|   Finished.  Wrote 0 entries.
+2005/06/09 06:04:31|   Took 0.0 seconds (   0.0 entries/sec).
+CPU Usage: 0.422 seconds = 0.108 user + 0.314 sys
+Maximum Resident Size: 0 KB
+Page faults with physical i/o: 0
+Memory usage for squid via mallinfo():
+	total space in arena:    2116 KB
+	Ordinary blocks:         2007 KB      3 blks
+	Small blocks:               0 KB      6 blks
+	Holding blocks:           200 KB      1 blks
+	Free Small blocks:          0 KB
+	Free Ordinary blocks:     108 KB
+	Total in use:            2207 KB 104%
+	Total free:               108 KB 5%
+2005/06/09 06:04:31| Squid Cache (Version 2.5.STABLE5): Exiting normally.
+2005/06/09 06:07:07| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/09 06:07:07| Process ID 2264
+2005/06/09 06:07:07| With 1024 file descriptors available
+2005/06/09 06:07:07| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/06/09 06:07:07| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/09 06:07:07| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/09 06:07:07| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/09 06:07:07| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/09 06:07:07| Unlinkd pipe opened on FD 11
+2005/06/09 06:07:07| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/09 06:07:07| Target number of buckets: 393
+2005/06/09 06:07:07| Using 8192 Store buckets
+2005/06/09 06:07:07| Max Mem  size: 8192 KB
+2005/06/09 06:07:07| Max Swap size: 102400 KB
+2005/06/09 06:07:07| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/06/09 06:07:07| Using Least Load store dir selection
+2005/06/09 06:07:07| Set Current Directory to /var/spool/squid
+2005/06/09 06:07:07| Loaded Icons.
+2005/06/09 06:07:09| Accepting HTTP connections at 0.0.0.0, port 3128, FD 12.
+2005/06/09 06:07:09| Accepting ICP messages at 0.0.0.0, port 3130, FD 13.
+2005/06/09 06:07:09| WCCP Disabled.
+2005/06/09 06:07:09| Ready to serve requests.
+2005/06/09 06:07:50| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/09 06:07:50| Finished rebuilding storage from disk.
+2005/06/09 06:07:50|         0 Entries scanned
+2005/06/09 06:07:50|         0 Invalid entries.
+2005/06/09 06:07:50|         0 With invalid flags.
+2005/06/09 06:07:50|         0 Objects loaded.
+2005/06/09 06:07:50|         0 Objects expired.
+2005/06/09 06:07:50|         0 Objects cancelled.
+2005/06/09 06:07:50|         0 Duplicate URLs purged.
+2005/06/09 06:07:50|         0 Swapfile clashes avoided.
+2005/06/09 06:07:50|   Took 43.0 seconds (   0.0 objects/sec).
+2005/06/09 06:07:50| Beginning Validation Procedure
+2005/06/09 06:07:51|   Completed Validation Procedure
+2005/06/09 06:07:51|   Validated 0 Entries
+2005/06/09 06:07:51|   store_swap_size = 0k
+2005/06/09 06:07:51| storeLateRelease: released 0 objects
+2005/06/10 11:32:28| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/06/10 11:32:28| Process ID 2295
+2005/06/10 11:32:28| With 1024 file descriptors available
+2005/06/10 11:32:28| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/06/10 11:32:28| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/06/10 11:32:28| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/06/10 11:32:28| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/06/10 11:32:28| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/06/10 11:32:28| Unlinkd pipe opened on FD 11
+2005/06/10 11:32:28| Swap maxSize 102400 KB, estimated 7876 objects
+2005/06/10 11:32:28| Target number of buckets: 393
+2005/06/10 11:32:28| Using 8192 Store buckets
+2005/06/10 11:32:28| Max Mem  size: 8192 KB
+2005/06/10 11:32:28| Max Swap size: 102400 KB
+2005/06/10 11:32:28| Rebuilding storage in /var/spool/squid (DIRTY)
+2005/06/10 11:32:28| Using Least Load store dir selection
+2005/06/10 11:32:28| Set Current Directory to /var/spool/squid
+2005/06/10 11:32:28| Loaded Icons.
+2005/06/10 11:32:31| Accepting HTTP connections at 0.0.0.0, port 3128, FD 12.
+2005/06/10 11:32:31| Accepting ICP messages at 0.0.0.0, port 3130, FD 13.
+2005/06/10 11:32:31| WCCP Disabled.
+2005/06/10 11:32:31| Ready to serve requests.
+2005/06/10 11:33:13| Done scanning /var/spool/squid swaplog (0 entries)
+2005/06/10 11:33:13| Finished rebuilding storage from disk.
+2005/06/10 11:33:13|         0 Entries scanned
+2005/06/10 11:33:13|         0 Invalid entries.
+2005/06/10 11:33:13|         0 With invalid flags.
+2005/06/10 11:33:13|         0 Objects loaded.
+2005/06/10 11:33:13|         0 Objects expired.
+2005/06/10 11:33:13|         0 Objects cancelled.
+2005/06/10 11:33:13|         0 Duplicate URLs purged.
+2005/06/10 11:33:13|         0 Swapfile clashes avoided.
+2005/06/10 11:33:13|   Took 45.2 seconds (   0.0 objects/sec).
+2005/06/10 11:33:13| Beginning Validation Procedure
+2005/06/10 11:33:13|   Completed Validation Procedure
+2005/06/10 11:33:13|   Validated 0 Entries
+2005/06/10 11:33:13|   store_swap_size = 0k
+2005/06/10 11:33:14| storeLateRelease: released 0 objects

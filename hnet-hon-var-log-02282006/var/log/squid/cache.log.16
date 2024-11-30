@@ -1,0 +1,555 @@
+2005/09/18 04:07:26| storeDirWriteCleanLogs: Starting...
+2005/09/18 04:07:27|   Finished.  Wrote 0 entries.
+2005/09/18 04:07:27|   Took 0.1 seconds (   0.0 entries/sec).
+2005/09/18 04:07:27| logfileRotate: /var/log/squid/store.log
+2005/09/18 04:07:27| logfileRotate: /var/log/squid/access.log
+2005/09/18 04:07:27| logfileRotate: /var/log/squid/useragent_log.log
+2005/09/18 04:07:27| logfileRotate: /var/log/squid/referer_log.log
+2005/09/18 04:19:56| Failure Ratio at 1.01
+2005/09/18 04:19:56| Going into hit-only-mode for 5 minutes...
+2005/09/18 04:32:13| Failure Ratio at 1.01
+2005/09/18 04:32:13| Going into hit-only-mode for 5 minutes...
+2005/09/18 04:39:18| Failure Ratio at 1.01
+2005/09/18 04:39:18| Going into hit-only-mode for 5 minutes...
+2005/09/18 04:48:11| Failure Ratio at 1.01
+2005/09/18 04:48:11| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:00:49| Failure Ratio at 1.01
+2005/09/18 05:00:49| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:11:40| Failure Ratio at 1.01
+2005/09/18 05:11:40| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:20:08| Failure Ratio at 1.01
+2005/09/18 05:20:08| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:25:43| Failure Ratio at 1.01
+2005/09/18 05:25:43| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:40:17| Failure Ratio at 1.01
+2005/09/18 05:40:17| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:46:31| Failure Ratio at 1.05
+2005/09/18 05:46:31| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:52:56| Failure Ratio at 1.01
+2005/09/18 05:52:56| Going into hit-only-mode for 5 minutes...
+2005/09/18 05:58:21| Failure Ratio at 1.03
+2005/09/18 05:58:21| Going into hit-only-mode for 5 minutes...
+2005/09/18 06:07:07| Failure Ratio at 1.01
+2005/09/18 06:07:07| Going into hit-only-mode for 5 minutes...
+2005/09/18 06:17:36| Failure Ratio at 1.01
+2005/09/18 06:17:36| Going into hit-only-mode for 5 minutes...
+2005/09/18 06:32:02| Failure Ratio at 1.01
+2005/09/18 06:32:02| Going into hit-only-mode for 5 minutes...
+2005/09/18 06:43:09| Failure Ratio at 1.01
+2005/09/18 06:43:09| Going into hit-only-mode for 5 minutes...
+2005/09/18 06:49:05| Failure Ratio at 1.01
+2005/09/18 06:49:05| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:03:05| Failure Ratio at 1.01
+2005/09/18 07:03:05| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:13:25| Failure Ratio at 1.01
+2005/09/18 07:13:25| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:19:12| Failure Ratio at 1.01
+2005/09/18 07:19:12| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:28:11| Failure Ratio at 1.01
+2005/09/18 07:28:11| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:37:28| Failure Ratio at 1.01
+2005/09/18 07:37:28| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:46:09| Failure Ratio at 1.01
+2005/09/18 07:46:09| Going into hit-only-mode for 5 minutes...
+2005/09/18 07:57:14| Failure Ratio at 1.01
+2005/09/18 07:57:14| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:03:32| Failure Ratio at 1.01
+2005/09/18 08:03:32| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:08:54| Failure Ratio at 1.07
+2005/09/18 08:08:54| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:14:25| Failure Ratio at 1.03
+2005/09/18 08:14:25| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:22:28| Failure Ratio at 1.01
+2005/09/18 08:22:28| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:27:28| Failure Ratio at 1.73
+2005/09/18 08:27:28| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:33:07| Failure Ratio at 1.50
+2005/09/18 08:33:07| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:38:12| Failure Ratio at 1.11
+2005/09/18 08:38:12| Going into hit-only-mode for 5 minutes...
+2005/09/18 08:43:19| Failure Ratio at 1.01
+2005/09/18 08:43:19| Going into hit-only-mode for 5 minutes...
+2005/09/18 09:18:46| Failure Ratio at 1.05
+2005/09/18 09:18:46| Going into hit-only-mode for 5 minutes...
+2005/09/19 05:58:21| Starting Squid Cache version 2.5.STABLE5 for i386-redhat-linux-gnu...
+2005/09/19 05:58:21| Process ID 2294
+2005/09/19 05:58:21| With 1024 file descriptors available
+2005/09/19 05:58:21| DNS Socket created at 0.0.0.0, port 1027, FD 4
+2005/09/19 05:58:21| Adding nameserver 206.141.192.60 from /etc/resolv.conf
+2005/09/19 05:58:21| Adding nameserver 66.73.20.40 from /etc/resolv.conf
+2005/09/19 05:58:21| Adding nameserver 147.4.30.3 from /etc/resolv.conf
+2005/09/19 05:58:21| Adding nameserver 147.4.30.2 from /etc/resolv.conf
+2005/09/19 05:58:21| Unlinkd pipe opened on FD 11
+2005/09/19 05:58:21| Swap maxSize 102400 KB, estimated 7876 objects
+2005/09/19 05:58:21| Target number of buckets: 393
+2005/09/19 05:58:21| Using 8192 Store buckets
+2005/09/19 05:58:21| Max Mem  size: 8192 KB
+2005/09/19 05:58:21| Max Swap size: 102400 KB
+2005/09/19 05:58:21| Rebuilding storage in /var/spool/squid (CLEAN)
+2005/09/19 05:58:21| Using Least Load store dir selection
+2005/09/19 05:58:21| Set Current Directory to /var/spool/squid
+2005/09/19 05:58:21| Loaded Icons.
+2005/09/19 05:58:23| Accepting HTTP connections at 0.0.0.0, port 3128, FD 12.
+2005/09/19 05:58:23| Accepting ICP messages at 0.0.0.0, port 3130, FD 13.
+2005/09/19 05:58:23| WCCP Disabled.
+2005/09/19 05:58:23| Ready to serve requests.
+2005/09/19 05:59:03| Done scanning /var/spool/squid swaplog (0 entries)
+2005/09/19 05:59:03| Finished rebuilding storage from disk.
+2005/09/19 05:59:03|         0 Entries scanned
+2005/09/19 05:59:03|         0 Invalid entries.
+2005/09/19 05:59:03|         0 With invalid flags.
+2005/09/19 05:59:03|         0 Objects loaded.
+2005/09/19 05:59:03|         0 Objects expired.
+2005/09/19 05:59:03|         0 Objects cancelled.
+2005/09/19 05:59:03|         0 Duplicate URLs purged.
+2005/09/19 05:59:03|         0 Swapfile clashes avoided.
+2005/09/19 05:59:03|   Took 41.7 seconds (   0.0 objects/sec).
+2005/09/19 05:59:03| Beginning Validation Procedure
+2005/09/19 05:59:03|   Completed Validation Procedure
+2005/09/19 05:59:03|   Validated 0 Entries
+2005/09/19 05:59:03|   store_swap_size = 0k
+2005/09/19 05:59:05| storeLateRelease: released 0 objects
+2005/09/20 08:36:04| sslReadServer: FD 15: read failure: (104) Connection reset by peer
+2005/09/20 09:23:21| Failure Ratio at 1.00
+2005/09/20 09:23:21| Going into hit-only-mode for 5 minutes...
+2005/09/20 09:40:50| Failure Ratio at 1.01
+2005/09/20 09:40:50| Going into hit-only-mode for 5 minutes...
+2005/09/20 09:47:53| Failure Ratio at 1.01
+2005/09/20 09:47:53| Going into hit-only-mode for 5 minutes...
+2005/09/20 09:53:03| Failure Ratio at 1.36
+2005/09/20 09:53:03| Going into hit-only-mode for 5 minutes...
+2005/09/20 09:58:16| Failure Ratio at 1.05
+2005/09/20 09:58:16| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:03:17| Failure Ratio at 1.01
+2005/09/20 10:03:17| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:08:55| Failure Ratio at 1.20
+2005/09/20 10:08:55| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:23:58| Failure Ratio at 1.01
+2005/09/20 10:23:58| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:33:35| Failure Ratio at 1.01
+2005/09/20 10:33:35| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:40:32| Failure Ratio at 1.01
+2005/09/20 10:40:32| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:47:00| Failure Ratio at 1.01
+2005/09/20 10:47:00| Going into hit-only-mode for 5 minutes...
+2005/09/20 10:52:05| Failure Ratio at 1.05
+2005/09/20 10:52:05| Going into hit-only-mode for 5 minutes...
+2005/09/20 11:03:38| Failure Ratio at 1.01
+2005/09/20 11:03:38| Going into hit-only-mode for 5 minutes...
+2005/09/20 11:21:25| Failure Ratio at 1.01
+2005/09/20 11:21:25| Going into hit-only-mode for 5 minutes...
+2005/09/20 11:31:54| Failure Ratio at 1.01
+2005/09/20 11:31:54| Going into hit-only-mode for 5 minutes...
+2005/09/20 11:43:31| Failure Ratio at 1.01
+2005/09/20 11:43:31| Going into hit-only-mode for 5 minutes...
+2005/09/20 11:54:21| Failure Ratio at 1.01
+2005/09/20 11:54:21| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:03:53| Failure Ratio at 1.01
+2005/09/20 12:03:53| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:13:53| Failure Ratio at 1.01
+2005/09/20 12:13:53| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:24:30| Failure Ratio at 1.01
+2005/09/20 12:24:30| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:33:31| Failure Ratio at 1.01
+2005/09/20 12:33:31| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:44:46| Failure Ratio at 1.01
+2005/09/20 12:44:46| Going into hit-only-mode for 5 minutes...
+2005/09/20 12:59:39| Failure Ratio at 1.01
+2005/09/20 12:59:39| Going into hit-only-mode for 5 minutes...
+2005/09/20 13:06:35| Failure Ratio at 1.01
+2005/09/20 13:06:35| Going into hit-only-mode for 5 minutes...
+2005/09/20 13:21:32| Failure Ratio at 1.01
+2005/09/20 13:21:32| Going into hit-only-mode for 5 minutes...
+2005/09/20 13:30:29| Failure Ratio at 1.01
+2005/09/20 13:30:29| Going into hit-only-mode for 5 minutes...
+2005/09/20 13:43:14| Failure Ratio at 1.01
+2005/09/20 13:43:14| Going into hit-only-mode for 5 minutes...
+2005/09/20 14:00:55| Failure Ratio at 1.01
+2005/09/20 14:00:55| Going into hit-only-mode for 5 minutes...
+2005/09/20 14:19:52| Failure Ratio at 1.01
+2005/09/20 14:19:52| Going into hit-only-mode for 5 minutes...
+2005/09/20 14:33:43| Failure Ratio at 1.01
+2005/09/20 14:33:43| Going into hit-only-mode for 5 minutes...
+2005/09/20 21:05:56| Failure Ratio at 1.01
+2005/09/20 21:05:56| Going into hit-only-mode for 5 minutes...
+2005/09/20 21:21:25| Failure Ratio at 1.01
+2005/09/20 21:21:25| Going into hit-only-mode for 5 minutes...
+2005/09/20 21:34:25| Failure Ratio at 1.01
+2005/09/20 21:34:25| Going into hit-only-mode for 5 minutes...
+2005/09/20 21:42:56| Failure Ratio at 1.01
+2005/09/20 21:42:56| Going into hit-only-mode for 5 minutes...
+2005/09/20 22:06:50| Failure Ratio at 1.01
+2005/09/20 22:06:50| Going into hit-only-mode for 5 minutes...
+2005/09/20 22:18:29| Failure Ratio at 1.01
+2005/09/20 22:18:29| Going into hit-only-mode for 5 minutes...
+2005/09/20 22:42:15| Failure Ratio at 1.01
+2005/09/20 22:42:15| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:02:51| Failure Ratio at 1.01
+2005/09/20 23:02:51| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:10:12| Failure Ratio at 1.01
+2005/09/20 23:10:12| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:32:41| Failure Ratio at 1.01
+2005/09/20 23:32:41| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:45:54| Failure Ratio at 1.01
+2005/09/20 23:45:54| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:51:46| Failure Ratio at 1.01
+2005/09/20 23:51:46| Going into hit-only-mode for 5 minutes...
+2005/09/20 23:57:26| Failure Ratio at 1.09
+2005/09/20 23:57:26| Going into hit-only-mode for 5 minutes...
+2005/09/21 00:05:40| Failure Ratio at 1.01
+2005/09/21 00:05:40| Going into hit-only-mode for 5 minutes...
+2005/09/21 00:16:58| Failure Ratio at 1.01
+2005/09/21 00:16:58| Going into hit-only-mode for 5 minutes...
+2005/09/21 00:22:09| Failure Ratio at 1.07
+2005/09/21 00:22:09| Going into hit-only-mode for 5 minutes...
+2005/09/21 00:37:54| Failure Ratio at 1.01
+2005/09/21 00:37:54| Going into hit-only-mode for 5 minutes...
+2005/09/21 00:51:10| Failure Ratio at 1.01
+2005/09/21 00:51:10| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:07:53| Failure Ratio at 1.01
+2005/09/21 01:07:53| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:14:49| Failure Ratio at 1.01
+2005/09/21 01:14:49| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:20:56| Failure Ratio at 1.22
+2005/09/21 01:20:56| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:27:10| Failure Ratio at 1.01
+2005/09/21 01:27:10| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:32:57| Failure Ratio at 1.09
+2005/09/21 01:32:57| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:39:38| Failure Ratio at 1.01
+2005/09/21 01:39:38| Going into hit-only-mode for 5 minutes...
+2005/09/21 01:54:04| Failure Ratio at 1.01
+2005/09/21 01:54:04| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:02:59| Failure Ratio at 1.01
+2005/09/21 02:02:59| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:08:28| Failure Ratio at 1.01
+2005/09/21 02:08:28| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:23:01| Failure Ratio at 1.01
+2005/09/21 02:23:01| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:29:27| Failure Ratio at 1.01
+2005/09/21 02:29:27| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:38:04| Failure Ratio at 1.01
+2005/09/21 02:38:04| Going into hit-only-mode for 5 minutes...
+2005/09/21 02:43:13| Failure Ratio at 2.80
+2005/09/21 02:43:13| Going into hit-only-mode for 5 minutes...
+2005/09/21 09:12:32| Failure Ratio at 1.00
+2005/09/21 09:12:32| Going into hit-only-mode for 5 minutes...
+2005/09/21 09:29:48| Failure Ratio at 1.01
+2005/09/21 09:29:48| Going into hit-only-mode for 5 minutes...
+2005/09/21 09:51:43| Failure Ratio at 1.01
+2005/09/21 09:51:43| Going into hit-only-mode for 5 minutes...
+2005/09/21 14:30:57| Failure Ratio at 1.02
+2005/09/21 14:30:57| Going into hit-only-mode for 5 minutes...
+2005/09/21 17:45:09| Failure Ratio at 1.01
+2005/09/21 17:45:09| Going into hit-only-mode for 5 minutes...
+2005/09/21 18:55:44| Failure Ratio at 1.01
+2005/09/21 18:55:44| Going into hit-only-mode for 5 minutes...
+2005/09/21 20:43:25| Failure Ratio at 1.01
+2005/09/21 20:43:25| Going into hit-only-mode for 5 minutes...
+2005/09/21 21:08:17| sslReadServer: FD 15: read failure: (104) Connection reset by peer
+2005/09/21 21:34:01| Failure Ratio at 1.01
+2005/09/21 21:34:01| Going into hit-only-mode for 5 minutes...
+2005/09/21 23:02:50| Failure Ratio at 1.01
+2005/09/21 23:02:50| Going into hit-only-mode for 5 minutes...
+2005/09/22 09:47:36| Failure Ratio at 1.01
+2005/09/22 09:47:36| Going into hit-only-mode for 5 minutes...
+2005/09/22 15:51:52| Failure Ratio at 1.02
+2005/09/22 15:51:52| Going into hit-only-mode for 5 minutes...
+2005/09/22 17:28:45| Failure Ratio at 1.01
+2005/09/22 17:28:45| Going into hit-only-mode for 5 minutes...
+2005/09/22 19:01:17| Failure Ratio at 1.01
+2005/09/22 19:01:17| Going into hit-only-mode for 5 minutes...
+2005/09/22 20:10:27| Failure Ratio at 1.01
+2005/09/22 20:10:27| Going into hit-only-mode for 5 minutes...
+2005/09/23 08:16:49| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 08:17:04| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 08:33:12| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 08:35:14| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 08:49:39| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 08:56:57| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 08:58:44| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 09:05:30| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 09:20:07| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 09:22:37| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 09:25:25| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 09:33:27| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 09:46:18| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 09:55:38| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 10:17:01| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 10:17:17| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 10:18:13| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 10:20:07| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 10:21:29| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 10:24:16| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 10:24:53| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 10:34:36| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 10:36:27| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 10:38:57| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 10:39:57| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 10:39:58| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 10:40:25| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 10:47:41| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 10:57:22| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 11:05:14| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 11:11:15| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 11:15:25| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 11:26:50| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 11:40:15| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 11:45:05| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 11:57:41| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 12:10:04| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 12:18:42| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 12:27:02| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 12:30:04| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 12:31:05| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 12:37:39| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 12:43:00| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 12:44:47| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 12:55:57| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:06:31| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:13:52| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:22:43| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:22:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:22:56| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:25:37| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:26:54| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:29:08| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:31:02| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 13:31:26| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:32:03| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:32:45| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:32:55| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:33:16| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:40:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:40:58| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:49:36| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:51:07| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:52:20| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 13:52:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 13:54:54| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 13:57:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 13:58:10| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:59:40| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 13:59:40| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:00:23| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 14:00:32| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:05:42| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 14:07:26| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:08:09| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:10:25| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:10:47| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 14:11:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:14:11| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:17:44| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:19:16| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:20:14| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:22:50| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 14:23:19| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:26:01| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:26:41| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 14:27:51| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 14:27:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:30:41| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:35:14| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:36:29| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:41:23| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:44:17| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:45:45| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 14:48:54| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:51:26| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 14:52:35| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 14:54:37| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:54:51| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:55:10| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 14:57:59| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:58:43| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 14:59:08| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 14:59:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 14:59:46| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 15:02:35| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 15:02:35| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 15:03:19| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 15:04:34| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 15:05:04| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 15:18:09| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 15:21:59| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 15:25:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 15:28:06| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 15:43:30| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 15:44:00| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 15:46:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 16:03:07| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:12:22| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 16:17:22| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:20:57| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:39:49| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:45:52| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:50:56| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:55:58| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 16:56:26| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 17:19:29| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 18:06:59| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:08:31| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:08:47| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:18:24| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:18:35| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 18:19:35| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 18:22:22| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 18:28:27| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 18:32:38| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:36:40| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:50:09| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 18:50:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 19:12:00| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 19:19:16| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 19:19:23| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 19:19:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 19:22:48| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 19:44:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 19:46:57| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 19:50:49| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 19:58:47| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 19:59:30| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 20:00:13| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:01:00| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 20:01:41| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 20:01:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:02:16| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:06:01| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 20:07:52| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:08:03| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:09:03| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 20:14:01| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 20:17:31| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 20:18:11| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 20:28:06| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 20:29:03| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:32:36| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:33:36| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:49:44| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 20:50:43| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:52:01| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 20:52:24| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 20:58:58| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 21:06:24| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 21:08:39| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 21:30:12| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 21:32:54| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 21:49:03| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 21:53:53| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 21:54:17| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 22:02:21| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 22:16:52| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 22:24:29| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 22:30:47| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 22:34:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/23 22:39:21| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 22:40:38| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 22:41:59| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 22:45:20| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 22:57:31| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 22:59:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/23 23:04:38| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 23:08:28| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:18:59| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/23 23:19:29| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:22:16| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:24:16| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:31:50| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:38:25| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:48:05| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:48:51| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:49:07| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:49:52| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:53:08| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:53:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/23 23:56:57| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/23 23:59:44| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 00:04:32| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:20:38| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 00:23:14| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:23:50| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 00:25:23| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:30:09| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 00:32:03| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 00:35:19| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 00:40:20| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:41:52| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 00:47:54| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:56:00| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 00:58:16| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 01:00:47| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 01:03:51| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 01:07:49| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 01:09:35| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 01:49:54| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 01:59:49| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:00:34| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:03:06| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:10:22| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 02:11:22| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 02:11:59| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 02:18:55| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:19:25| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:19:25| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:27:08| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:39:10| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:43:11| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 02:50:04| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 02:51:50| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 02:56:07| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 03:00:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 03:24:33| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 03:37:18| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 03:42:26| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 03:49:02| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 03:52:50| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 03:59:57| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 04:07:33| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 04:08:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 04:14:51| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 04:16:12| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 04:19:23| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 04:23:51| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 04:30:47| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 04:31:47| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 05:01:33| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 05:02:16| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:02:39| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 05:06:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:13:00| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 05:13:46| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:18:47| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:24:25| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 05:26:22| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 05:30:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:31:45| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 05:33:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.137' -> 'http://63.126.79.67:25/'
+2005/09/24 05:36:02| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 05:39:49| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:46:55| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 05:47:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 05:49:42| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 05:51:28| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 05:53:45| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:05:40| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 06:09:13| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:14:30| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:20:53| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:21:08| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:27:13| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 06:29:30| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 06:37:04| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 06:43:59| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 06:59:03| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 07:18:58| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.140' -> 'http://63.126.79.67:25/'
+2005/09/24 07:27:02| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 07:29:05| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 07:40:42| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 07:42:43| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.139' -> 'http://63.126.79.67:25/'
+2005/09/24 07:43:29| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 07:44:09| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 07:57:08| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 08:01:42| httpSendRequestEntryDone: Likely proxy abuse detected '59.188.4.138' -> 'http://63.126.79.67:25/'
+2005/09/24 08:01:57| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
+2005/09/24 08:07:49| httpSendRequestEntryDone: Likely proxy abuse detected '210.245.151.81' -> 'http://63.126.79.67:25/'
