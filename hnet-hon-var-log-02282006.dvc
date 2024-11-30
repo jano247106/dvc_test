@@ -1,6 +1,6 @@
 outs:
-- md5: 7d18b0ee87d3adef53769e16677d035f.dir
-  size: 749645346
-  nfiles: 665
+- md5: 11a24ca2975bbf82ac80cb241382c73e.dir
+  size: 749614796
+  nfiles: 631
   hash: md5
   path: hnet-hon-var-log-02282006
